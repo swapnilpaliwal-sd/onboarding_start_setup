@@ -24,6 +24,7 @@ flutter:
   assets:
      - images/first.jpeg
      - images/first_compressed.jpg
+     - images/placeholder.jpeg
      - icons/arrow-circle-right-outline-rounded.svg
   fonts:
      - family: Montserrat
