@@ -42,10 +42,11 @@ experience is created, leaving a lasting impression on users.
 
 ## Assets
 Here is brief information about assets used:
-- Font style: We use 'Montserrat' in this project. Montserrat is used in combination of weights
-  as seen below.
-- Fonts weight: Light, medium, semi-bold, bold, and extra-bold fonts.
-- Images: The images are placed covering a segment of the start of the onboarding page.
+- Font style: 'Montserrat' is utilized in this project, along with various weights as seen below.
+- Font weights: The available font weights include extra-light, light, medium, semi-bold, bold, 
+  and extra-bold.
+- Images: A collection of images is incorporated, covering a segment of the start of the onboarding 
+  page.
 
 ## License
 
