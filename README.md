@@ -2,6 +2,8 @@
 
 Creating a Responsive and Impactful Onboarding Start Page for Your Project!
 
+Follow the tutorial on YouTube: https://youtu.be/mPEVQsGfBPk
+
 ## Final result
 
 ![Final_result](https://github.com/swapnilpaliwal-sd/onboarding_start_setup/assets/78632212/86480a2d-63f3-4577-8166-eeda6cfcca36)
