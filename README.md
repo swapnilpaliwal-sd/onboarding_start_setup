@@ -28,15 +28,18 @@ following key concepts:
 the onboarding page is meticulously designed to ensure seamless usability across various devices. 
 This provides a consistent and engaging experience on smartphones, tablets, and desktops.
 
-**2. Custom Fonts and Shadows:** Utilizing the versatile 'Montserrat' font family, the onboarding 
+**2. Widget Composition:** Learn how to compose Flutter widgets to build complex UIs by combining
+multiple smaller widgets together, creating reusable and modular code.
+
+**3. Custom Fonts and Shadows:** Utilizing the versatile 'Montserrat' font family, the onboarding 
 page incorporates different weights, ranging from light to extra-bold. This choice creates visually 
 appealing typography that perfectly aligns with the project's aesthetic.
 
-**3. Stunning Image:** Visuals play a crucial role in capturing users' attention and effectively 
+**4. Image:** Visuals play a crucial role in capturing users' attention and effectively 
 conveying a message. Carefully selected images are strategically placed on the onboarding page to 
 enhance visual appeal and engage users right from the moment they arrive.
 
-**4. Clever Image Loading Placeholder:** Image loading times can impact user experience. To overcome
+**5. Image Loading Placeholder:** Image loading times can impact user experience. To overcome
 this, clever image loading placeholders are implemented to maintain users' interest during the 
 loading process. These placeholders ensure a seamless transition, providing a smooth and 
 uninterrupted onboarding experience.
